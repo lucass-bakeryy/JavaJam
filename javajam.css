@@ -28,3 +28,15 @@ font-size: 1.2em;
 padding-left: .5em;
 padding-bottom: .25em;
 }
+nav { font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+nav a { text-decoration: none;}
+main { display: block;
+padding-left: 2em;
+padding-right: 2em;
+padding-bottom: 2em;
+}
